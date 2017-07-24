@@ -55,5 +55,6 @@ for t in range(1, T):
 plt.plot(range(T), xOut, '.-b',
          range(T), xEst, '-.r',
          linewidth=3)
+
 plt.show()
 

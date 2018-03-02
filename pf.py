@@ -57,4 +57,3 @@ plt.plot(range(T), xOut, '.-b',
          linewidth=3)
 
 plt.show()
-

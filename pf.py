@@ -38,6 +38,7 @@ for t in range(1, T):
 
     for i in range(N):
         cdf = np.cumsum(wP)
+  
         s = np.random.rand(1)
         #print(cdf)
         #print(s)
